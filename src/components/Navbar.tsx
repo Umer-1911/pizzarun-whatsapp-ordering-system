@@ -59,7 +59,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center">
           <Link to="/" className="flex items-center space-x-2">
             <img 
-              src="/src/assets/images/pizzarun_logo_1782315841577.jpg" 
+              src="src\assets\images\pizzarun_logo_1782315841577.jpg" 
               alt="Pizza Run Logo" 
               className="h-8 w-8 sm:h-10 sm:w-10 rounded-full object-cover"
               referrerPolicy="no-referrer"
