@@ -1,0 +1,5 @@
+{
+  "name": "Pizza Run Fast-food",
+  "description": "Karachi's favorite Pizza, Burger & Fries spot. Fresh, fast, and delicious fast food located in Buffer Zone, North Nazimabad.",
+  "requestFramePermissions": ["geolocation"]
+}
